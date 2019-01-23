@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortableCryptoLibrary", "PortableCryptoLibrary\PortableCryptoLibrary.csproj", "{666FE082-A39C-4AC1-8709-3A880941C6D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortableCryptoServices", "PortableCryptoServices\PortableCryptoServices.csproj", "{2E87FEAC-0F50-4A16-B99D-EBD855EE15C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666FE082-A39C-4AC1-8709-3A880941C6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666FE082-A39C-4AC1-8709-3A880941C6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666FE082-A39C-4AC1-8709-3A880941C6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666FE082-A39C-4AC1-8709-3A880941C6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E87FEAC-0F50-4A16-B99D-EBD855EE15C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E87FEAC-0F50-4A16-B99D-EBD855EE15C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E87FEAC-0F50-4A16-B99D-EBD855EE15C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E87FEAC-0F50-4A16-B99D-EBD855EE15C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485D7B59-E1B6-4B05-9747-9F5707B0793C}
+	EndGlobalSection
+EndGlobal

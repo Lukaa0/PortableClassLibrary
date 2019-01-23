@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.2</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CryptoCompare" Version="1.1.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PortableCryptoServices">
+      <HintPath>..\PortableCryptoServices\obj\Release\netstandard2.0\PortableCryptoServices.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

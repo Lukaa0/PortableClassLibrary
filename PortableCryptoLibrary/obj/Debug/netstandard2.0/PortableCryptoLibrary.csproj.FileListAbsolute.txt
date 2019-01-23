@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\bin\Debug\netstandard2.0\PortableCryptoLibrary.deps.json
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\bin\Debug\netstandard2.0\PortableCryptoLibrary.dll
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\obj\Debug\netstandard2.0\PortableCryptoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\obj\Debug\netstandard2.0\PortableCryptoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\obj\Debug\netstandard2.0\PortableCryptoLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\obj\Debug\netstandard2.0\PortableCryptoLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\bin\Debug\netstandard2.0\PortableCryptoLibrary.pdb
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\obj\Debug\netstandard2.0\PortableCryptoLibrary.dll
+C:\Users\Admin\source\repos\PortableCryptoLibrary\PortableCryptoLibrary\obj\Debug\netstandard2.0\PortableCryptoLibrary.pdb
